@@ -1,3 +1,5 @@
+# githunks.nvim
+
 A simple lightweight git gutter for Neovim able to navigate between hunks in buffers.
 
 ## Installation
